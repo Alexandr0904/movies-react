@@ -1,0 +1,27 @@
+/* src/styles/App.css */
+body {
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 20px;
+}
+
+.app {
+  max-width: 800px;
+  margin: auto;
+  text-align: center;
+}
+
+.movie-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.error {
+  color: red;
+  margin: 10px 0;
+}
+.paragraph {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(59, 5, 5);
+}
